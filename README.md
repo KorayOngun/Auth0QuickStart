@@ -31,7 +31,7 @@ https://learn.microsoft.com/tr-tr/azure/active-directory/develop/v2-oauth2-auth-
 
 
 ### 1. Auth0 Bilgileri
-## https://auth0.com/ sitesine kayıt olduktan sonra bir kullanıcı panelinden bir proje oluşturup gerekli bilgileri uygulamaya eki
+## https://auth0.com/ sitesine kayıt olduktan sonra, uygulamamıza gereken bilgileri ekliyoruz
 ```csharp
 public void ConfigureServices(IServiceCollection services)
 {
